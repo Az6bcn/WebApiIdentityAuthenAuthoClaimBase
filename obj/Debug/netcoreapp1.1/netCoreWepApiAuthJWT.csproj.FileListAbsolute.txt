@@ -1,0 +1,11 @@
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\bin\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.deps.json
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\bin\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.runtimeconfig.json
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\bin\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.runtimeconfig.dev.json
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\bin\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.dll
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\bin\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.pdb
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\obj\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.csprojResolveAssemblyReference.cache
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\obj\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.csproj.CoreCompileInputs.cache
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\obj\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.AssemblyInfo.cs
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\obj\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.dll
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\obj\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.pdb
+C:\Users\Olusegun\source\repos\netCoreWepApiAuthJWT\obj\Debug\netcoreapp1.1\netCoreWepApiAuthJWT.AssemblyInfoInputs.cache
