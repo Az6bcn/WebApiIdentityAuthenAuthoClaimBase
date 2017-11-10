@@ -162,4 +162,13 @@ namespace netCoreWepApiAuthJWT
  * 
  * CORS:
  * https://elanderson.net/2016/11/cross-origin-resource-sharing-cors-in-asp-net-core/
+ 
+ *To use EF Core the application needs to install the following packages
+ 
+ * Install-Package Microsoft.EntityFrameworkCore.SqlServer
+ 
+* Install-Package Microsoft.EntityFrameworkCore.Tools
+ 
+* Install-Package Microsoft.EntityFrameworkCore.SqlServer.Design
+ 
  */
